@@ -1,0 +1,16 @@
+{
+  "name": "blog-website-using-nodejs-html-css-js-express-handlebars",
+  "version": "1.0.0",
+  "description": "This is blog webiste build using express of node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Masand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "nodemon": "^2.0.22"
+  }
+}
