@@ -46,14 +46,3 @@ npm start
 ## Data
 
 The website currently uses static JSON data located in the `data/` folder. However, it can be easily modified to retrieve data from another database by updating the models and controllers accordingly.
-
-## Screenshots
-
-<img src="screenshot/homepage.png" alt="homepage" width="750">
-<img src="screenshot/blogpost.png" alt="homepage" width="750">
-<img src="screenshot/searchresult.png" alt="homepage" width="750">
-<img src="screenshot/contactform.png" alt="homepage" width="750">
-<!-- ![Homepage](/screenshot/homepage.png)
-![Blog Post](/screenshot/blogpost.png)
-![Search Result](/screenshot/searchresult.png)
-![Contact Form](/screenshot/contactform.png) -->
